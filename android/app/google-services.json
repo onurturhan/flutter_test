@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808625853830",
+    "project_id": "fbonur-testapp",
+    "storage_bucket": "fbonur-testapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808625853830:android:0425d0f3b807244637c807",
+        "android_client_info": {
+          "package_name": "com.tetrative.test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808625853830-f3ep4nrjlh6rh3f05vpkjnrldrhijhlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4NavEuvTiQu3VIipJUYyn4bNQJC2pjyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808625853830-f3ep4nrjlh6rh3f05vpkjnrldrhijhlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

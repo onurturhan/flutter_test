@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>808625853830-fhaq95pppn5uuuqc401uj6mfospqheio.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.808625853830-fhaq95pppn5uuuqc401uj6mfospqheio</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDggBG8o1-BfO-u6RBdvqf5kqaksQDh7t0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>808625853830</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tetrative.testApp</string>
+	<key>PROJECT_ID</key>
+	<string>fbonur-testapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fbonur-testapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:808625853830:ios:e672ecd48edd1a7d37c807</string>
+</dict>
+</plist>
